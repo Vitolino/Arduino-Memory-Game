@@ -5,10 +5,12 @@ PORTUGUES:
 
 Materiais necessários:
   1 Arduino
+  
   1 Cabo USB A/B (cabo que vem junto com o arduino)
     Varios jumpers
   1 Protoboard
   4 LEDs
+  
   4 Botões
   1 Display LCD 16x2
   1 Potênciometro
