@@ -1,6 +1,5 @@
 # Arduino-Memory-Game
 
-# ENGLISH:
 
 # NECESSARY MATERIALS:
 
