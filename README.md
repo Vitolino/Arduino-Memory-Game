@@ -3,12 +3,13 @@ Lenguages: Portuguese(BR) and English
 
 PORTUGUES:
 
-Materiais necessários:
+MATERIAISS NECESSARIOS
+
   1 Arduino
   
   1 Cabo USB A/B (cabo que vem junto com o arduino)
   
-    Varios jumpers
+   Varios jumpers
     
   1 Protoboard
   
@@ -25,7 +26,7 @@ Materiais necessários:
   4 resistores 10k ohms
   
   
- Passo a passo:
+ PASSO A PASSO:
  
  1º Faça a ligação dos componentes na protoboard de acordo com o esquemático;
  
@@ -36,14 +37,17 @@ Materiais necessários:
  4º Tudo pronto, agora só jogar.
   
 
+
+
 ENGLISH:
 
-Necessary materials:
+NECESSARY MATERIALS:
+
   1 Arduino
   
   1 USB A / B cable (cable that comes with the arduino)
   
-    Various jumpers
+   Various jumpers
     
   1 Protoboard
   
@@ -60,7 +64,7 @@ Necessary materials:
   4 resistors 10k ohms
   
   
- Step by step:
+ STEP BY STEP:
  
  1º Make the connection of the components in the protoboard according to the schematic;
  
